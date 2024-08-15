@@ -1,18 +1,18 @@
 {
   "id": "clear-sans",
   "family": "Clear Sans",
-  "subsets": ["latin"],
+  "subsets": ["latin", "latin-ext", "cyrillic", "cyrillic-ext", "greek"],
   "weights": [100, 300, 400, 500, 700],
   "styles": ["normal", "italic"],
   "defSubset": "latin",
   "variable": false,
-  "lastModified": "2023-05-15",
-  "version": "v1.00",
+  "lastModified": "2024-08-15",
+  "version": "v1.0",
   "category": "sans-serif",
   "license": {
     "type": "Apache-2.0",
     "url": "http://www.apache.org/licenses/LICENSE-2.0",
-    "attribution": "Intel"
+    "attribution": "Intel."
   },
   "source": "https://github.com/intel/clear-sans",
   "type": "other"

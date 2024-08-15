@@ -42,6 +42,6 @@ Intel
 [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Other Notes
-Font version (provided by source): `v1.00`.
+Font version (provided by source): `v1.0`.
 
 If you have any suggestions or ideas to improve the performance of font loading or expand the existing library, feel free to star and contribute to this repository. You can share your suggestions or ideas by creating an [issue](https://github.com/fontsource/fontsource/issues).

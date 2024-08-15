@@ -1,6 +1,6 @@
 {
   "name": "@fontsource/clear-sans",
-  "version": "5.0.11",
+  "version": "5.0.0",
   "description": "Self-host the Clear Sans font in a neatly bundled NPM package.",
   "main": "index.css",
   "publishConfig": {"access": "public"},
@@ -18,13 +18,12 @@
     "typeface",
     "variable"
   ],
-  "author": "Intel",
+  "author": "Clear Sans was created and designed by Daniel Ratighan at Monotype under the direction of the User Experience team at Intel's Open Source Technology Center.",
   "license": "Apache-2.0",
   "homepage": "https://fontsource.org/fonts/clear-sans",
   "repository": {
     "type": "git",
     "url": "https://github.com/fontsource/font-files.git",
     "directory": "fonts/other/clear-sans"
-  },
-  "publishHash": "0e816c82924d01cd"
+  }
 }

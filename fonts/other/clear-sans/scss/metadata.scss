@@ -1,7 +1,7 @@
 $id: 'clear-sans' !default;
 $family: 'Clear Sans' !default;
 $category: sans-serif !default;
-$subsets: (latin) !default;
+$subsets: (latin, latin-ext, cyrillic, cyrillic-ext, greek) !default;
 $weights: (100, 300, 400, 500, 700) !default;
 $styles: (normal, italic) !default;
 $axes: null !default;
